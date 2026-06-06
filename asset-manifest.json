@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/PyLearn/static/css/main.07c15215.chunk.css",
-    "main.js": "/PyLearn/static/js/main.b45b0726.chunk.js",
-    "main.js.map": "/PyLearn/static/js/main.b45b0726.chunk.js.map",
-    "runtime-main.js": "/PyLearn/static/js/runtime-main.9eada2df.js",
-    "runtime-main.js.map": "/PyLearn/static/js/runtime-main.9eada2df.js.map",
-    "static/js/2.65c6652b.chunk.js": "/PyLearn/static/js/2.65c6652b.chunk.js",
-    "static/js/2.65c6652b.chunk.js.map": "/PyLearn/static/js/2.65c6652b.chunk.js.map",
-    "static/js/3.168d1dab.chunk.js": "/PyLearn/static/js/3.168d1dab.chunk.js",
-    "static/js/3.168d1dab.chunk.js.map": "/PyLearn/static/js/3.168d1dab.chunk.js.map",
-    "index.html": "/PyLearn/index.html",
-    "static/css/main.07c15215.chunk.css.map": "/PyLearn/static/css/main.07c15215.chunk.css.map",
-    "static/js/2.65c6652b.chunk.js.LICENSE.txt": "/PyLearn/static/js/2.65c6652b.chunk.js.LICENSE.txt"
+    "main.css": "/ProgrammingLearn/static/css/main.07c15215.chunk.css",
+    "main.js": "/ProgrammingLearn/static/js/main.b45b0726.chunk.js",
+    "main.js.map": "/ProgrammingLearn/static/js/main.b45b0726.chunk.js.map",
+    "runtime-main.js": "/ProgrammingLearn/static/js/runtime-main.ad5fd437.js",
+    "runtime-main.js.map": "/ProgrammingLearn/static/js/runtime-main.ad5fd437.js.map",
+    "static/js/2.eca73b11.chunk.js": "/ProgrammingLearn/static/js/2.eca73b11.chunk.js",
+    "static/js/2.eca73b11.chunk.js.map": "/ProgrammingLearn/static/js/2.eca73b11.chunk.js.map",
+    "static/js/3.168d1dab.chunk.js": "/ProgrammingLearn/static/js/3.168d1dab.chunk.js",
+    "static/js/3.168d1dab.chunk.js.map": "/ProgrammingLearn/static/js/3.168d1dab.chunk.js.map",
+    "index.html": "/ProgrammingLearn/index.html",
+    "static/css/main.07c15215.chunk.css.map": "/ProgrammingLearn/static/css/main.07c15215.chunk.css.map",
+    "static/js/2.eca73b11.chunk.js.LICENSE.txt": "/ProgrammingLearn/static/js/2.eca73b11.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9eada2df.js",
-    "static/js/2.65c6652b.chunk.js",
+    "static/js/runtime-main.ad5fd437.js",
+    "static/js/2.eca73b11.chunk.js",
     "static/css/main.07c15215.chunk.css",
     "static/js/main.b45b0726.chunk.js"
   ]
